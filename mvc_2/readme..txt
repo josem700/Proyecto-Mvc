@@ -1,0 +1,1 @@
+El archivo para montar la base de datos se encuentra en la carpeta sql, montar primero la base de datos antes de abrir el proyecto
