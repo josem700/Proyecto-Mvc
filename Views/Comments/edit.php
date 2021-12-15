@@ -6,7 +6,7 @@
         
         <label for="description">Comentario</label>
         
-        <input type="text" class="form-control" id="description" placeholder="Intorduce un Comentaio" name="commentBody">
+        <input type="text" class="form-control" id="description" placeholder="Intorduce un Comentario" name="commentBody" value="<?php if (isset($comments["body"])) echo $comments["body"];?>">
 
     </div>
 
